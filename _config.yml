@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 어수혁의_블로그
+description: 어수혁의 첫번쨰 블로그
 
-url: http://brianmaierjr.github.com/long-haul
+url: 피지컬어수혁.0pe.kr
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,15 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+#- title: About
+# url: /about
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
-
-google_analytics: "UA-58263416-1"
+   #github: brianmaierjr
+   facebook: https://www.facebook.com/profile.php?id=100015628159438&ref=bookmarks
+   email: fishandrew01@naver.com
