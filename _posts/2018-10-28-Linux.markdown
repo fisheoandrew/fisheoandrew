@@ -1,0 +1,19 @@
+## LINUX  
+<hr/>  
+##pwd : 현재 자신이 위치하는 디렉토리  
+![](https://joshua1988.github.io/images/posts/web/linux/commands/pwd.gif)  
+<hr/>
+##cd : 디렉토리 이동  
+![](https://joshua1988.github.io/images/posts/web/linux/commands/cd.gif)  
+cd.   | 현재 디렉토리  
+cd .. | 한 단계 상위 디렉토리로 이동  
+cd /  | 최상위 디렉토리로 이동
+<hr/>  
+##ls : 자신이 속해있는 폴더 내에서의 파일 및 폴더들을 표시  
+![](https://joshua1988.github.io/images/posts/web/linux/commands/ls.gif)  
+<hr/>
+##touch 는 새로운 파일을 생성하는 명령어입니다.  
+![](https://joshua1988.github.io/images/posts/web/linux/commands/touch.gif)  <hr/>
+##rm -r 는 대상 폴더 또는 파일을 삭제하는 명령어입니다. rm 이 기본적으로 파일을 지우는 명령어이고 옵션으로 -r을 붙이면 폴더도 삭제할 수 있습니다.  
+![](https://joshua1988.github.io/images/posts/web/linux/commands/rm.gif)  
+<hr/>
